@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zvercast.github.io/ZverCast-Zakonka/sitemap.xml
